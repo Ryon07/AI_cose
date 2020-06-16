@@ -11,6 +11,3 @@
 ## 3주차 과제 (2020.6.4)
 
 +[학습률최적화,군집 분석 구현,Cost Function구현](https://github.com/Ryon07/AI_cose/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C(%EC%A0%9C%EC%B6%9C%EC%9A%A9).ipynb)
-
-## 3주차 과제 (2020.6.11)
-+[딥런닝 용어 정리,클론 코딩, 딥러닝 순전파&역전파 계산](https://github.com/Ryon07/AI_cose/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C(%EC%A0%9C%EC%B6%9C%EC%9A%A9).ipynb)
